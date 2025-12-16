@@ -1,2 +1,3 @@
-# Machine-Learning-Basics
-Basics of machine learning
+# Machine-Learning-In-Python
+Machine learning in python
+
